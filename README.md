@@ -4,3 +4,7 @@
 Repositório criado durante uma aula do Curso em Video
 
 Essa linha eu adicionei diretamento pelo site.
+
+teste
+
+teste
